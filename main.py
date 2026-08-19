@@ -1,3 +1,3 @@
 def display():
-    print("hello github")
+    print("hello git")
 display()
